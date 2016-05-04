@@ -1,0 +1,6 @@
+
+For PyMVPA installation download the binary from the 
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+and use the command 'pip install name_of_the_whl_file' 
